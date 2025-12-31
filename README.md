@@ -6,7 +6,17 @@ This repository demonstrates how to build an **intelligent MCP (Model Context Pr
 👉 [**Build Confluence MCP Client with Embabel Framework**](https://bootcamptoprod.com/embabel-confluence-mcp-client/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 **YouTube Tutorial - Coming Soon!**
+👉 YouTube Tutorial - [**Create a Confluence MCP Client: Manage Your Docs with Natural Language!**](https://youtu.be/_Km6BMP4NjQ)
+
+<p align="center">
+  <a href="https://youtu.be/_Km6BMP4NjQ">
+    <img src="https://img.youtube.com/vi/_Km6BMP4NjQ/0.jpg" alt="Create a Confluence MCP Client: Manage Your Docs with Natural Language!" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/_Km6BMP4NjQ">Watch on YouTube</a>
+</p>
 
 ---
 
